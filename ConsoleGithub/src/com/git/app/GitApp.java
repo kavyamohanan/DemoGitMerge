@@ -25,6 +25,9 @@ public class GitApp {
 			
 			//nineth commit
 			System.out.println("++++++++++++++++++");
+			
+			//tenth commit
+			System.out.println("Tenth commit");
 
 	}
 
