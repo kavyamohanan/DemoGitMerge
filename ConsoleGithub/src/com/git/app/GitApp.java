@@ -16,6 +16,9 @@ public class GitApp {
 			System.out.println("$$$$$$$$$$$$$$$$$$$$$");
 			
 			System.out.println("Hello how are you??");
+			
+			//Seventh commit
+			System.out.println("seventh commit");
 
 	}
 
