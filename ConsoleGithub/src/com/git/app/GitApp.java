@@ -11,6 +11,9 @@ public class GitApp {
 			
 			//fourth commit
 			System.out.println("****************");
+			
+			//fifth commit
+			System.out.println("$$$$$$$$$$$$$$$$$$$$$");
 
 	}
 
